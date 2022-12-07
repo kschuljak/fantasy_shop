@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T20:16:32.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4dCiP_85mf9V8enS1yQ4" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-07T22:33:33.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Mv90Wqwos646mu3nbD73" version="20.6.0" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="armor">
     <mxGraphModel dx="1091" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1228,7 +1228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-3HTmJW3NSp819TRLY-H" name="gear">
-    <mxGraphModel dx="1091" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
