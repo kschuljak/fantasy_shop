@@ -1,2 +1,2 @@
-# fantasy_shop
+# Fantasy Shop
 A Dungeons &amp; Dragons Equipment Shop
